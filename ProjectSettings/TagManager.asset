@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Void
+  - Land
+  - TennisBall
+  - Ball
+  - Base
+  - Enemy
+  - CameraShaker
+  - GameManager
+  - VignetteController
+  - CameraEffects
+  - ScoreText
+  - EnemySpawner
+  - UserInterface
+  - StartMenu
+  - DifficultyMultiplier
+  - HealthUI
+  - Turret
+  - TurretPriceUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cursor
+  - Water
+  - UI
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
